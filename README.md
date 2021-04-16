@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AthenaSecurity
+- 👋 Hi, I’m @overfundings
 - 👀 I’m interested in c# and Python!
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Networking, C++, and HTML
 - 📫 How to reach me!!!
-Discord:athena sec#0999
-Insta: slammings_
+Discord: overfundings#1337
+Insta: overfundings
 
 <!---
 AthenaSecurity/AthenaSecurity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
